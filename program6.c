@@ -9,9 +9,7 @@
 //  Input :             Integer
 //  Output :            Boolean
 //  Description :       Checks whether input is even or odd     
-//  Author :            Piyush Manohar Khairnar
-//  Date :              25/04/2023
-//  Update Date :       26/04/2023
+//  Author :            Pranavi Ghanshyam Baraskar
 //
 //////////////////////////////////////////////////////////////////////////
 
