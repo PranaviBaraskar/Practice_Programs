@@ -9,7 +9,7 @@
 //  Input :             Integer
 //  Output :            Boolean
 //  Description :       Checks whether input is divisible by 3 and 5     
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Pranavi Ghanshyam Baraskar
 //  Date :              25/04/2023
 //
 //////////////////////////////////////////////////////////////////////////
