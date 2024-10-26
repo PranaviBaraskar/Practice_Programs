@@ -19,5 +19,6 @@ int main()
     printf("Character is %c with ASCII value %d\n",ch6,ch6);
 
     return 0;
+    
 }
 
